@@ -93,7 +93,7 @@ Este é apenas o começo! Algumas ideias para expandir e melhorar o Triagem Vete
 * **Base de Conhecimento Veterinário:** Conectar a uma base de dados estruturada (desenvolvida e validada por veterinários) para informações mais específicas.
 * **Interface Gráfica:** Desenvolver uma interface web mais amigável usando Streamlit ou Flask.
 * **Níveis de Urgência:** Implementar uma lógica mais sofisticada para classificar a urgência dos sintomas (sempre com o aviso de consulta veterinária).
-* **Multi-idiomas:** Tornar o VetBot acessível para mais tutores.
+* **Multi-idiomas:** Tornar o Triagem Veterinária acessível para mais tutores.
 
 ---
 
