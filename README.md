@@ -26,7 +26,7 @@ Este projeto é uma excelente ferramenta para estudantes, desenvolvedores e entu
 
 * **Python:** A linguagem de programação principal.
 * **Google Colab:** Ambiente de notebook interativo para desenvolvimento e execução.
-* **Google Generative AI (API do Gemini):** O cérebro por trás da inteligência conversacional do VetBot.
+* **Google Generative AI (API do Gemini):** O cérebro por trás da inteligência conversacional do Triagem Veterinária.
 * **Markdown:** Para exibição formatada das mensagens no Colab.
 
 ---
