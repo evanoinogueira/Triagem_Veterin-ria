@@ -1,6 +1,6 @@
 # 🐾 VetBot AI: Seu Assistente Virtual Inteligente para Triagem Veterinária Inicial (Projeto de Demonstração) ✨
 
-**Bem-vindo ao Triagem Veterinária!** Um projeto inovador e educacional que explora o potencial da Inteligência Artificial do Google para auxiliar tutores de pets em momentos de aflição, oferecendo uma triagem inicial de sintomas.
+**Bem-vindo ao VetBot AI!** Um projeto inovador e educacional que explora o potencial da Inteligência Artificial do Google para auxiliar tutores de pets em momentos de aflição, oferecendo uma triagem inicial de sintomas.
 
 [![Google Colab]https://colab.research.google.com/drive/1kRjS8KoXyMgjw-uMJGo-vcYTVFdvyVut?usp=sharing
 ---
